@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Vishnu Kumar! 👋
 
-<!--
-**vishnu-kumar1/vishnu-kumar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate and AI Engineer focused on building autonomous agentic frameworks, large language model (LLM) applications, and intelligent systems. 
 
-Here are some ideas to get you started:
+- 📍 Based in Bengaluru, India
+- 🛠️ Currently focusing on Advanced GenAI & Multi-Agent Architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+#### 🤖 [Multi-Agent Learning AI](https://github.com/vishnu-kumar1/multi-agent-learning-ai)
+* Development of autonomous multi-agent systems and learning frameworks.
+* **Tech Stack:** Python, LangChain, AI Agents.
+
+#### 🗺️ [GenAI Developer Roadmap](https://github.com/vishnu-kumar1/GEN-AI-Developer-Roadmap)
+* A comprehensive guide and resource curation for mastering Generative AI engineering.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, SQL
+- **AI & LLMs:** LangChain, Agentic AI Frameworks, RAG Pipelines
+- **Web Frameworks:** FastAPI, Streamlit, Django
+- **Data Tools:** Pandas, Scikit-Learn, FAISS
+
+---
+
+### 📈 GitHub Stats
+
+![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnu-kumar1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-kumar1&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect with Me
+- [LinkedIn](YOUR_LINKEDIN_URL_HERE)
