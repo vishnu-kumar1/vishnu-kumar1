@@ -35,4 +35,4 @@ I am a Computer Science graduate and AI Engineer focused on building autonomous 
 ---
 
 ### 🤝 Connect with Me
-- [LinkedIn]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/vishnu-kumar123/))
+- [LinkedIn](https://www.linkedin.com/in/vishnu-kumar123/)
